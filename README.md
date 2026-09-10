@@ -5,7 +5,9 @@ environment.
 <h2>Environments and Technologies Used</h2>
 - Okta
 <h2>Operating Systems Used </h2>
-- Windows 11
+- MacOS - Primary operating system used
+
+- Windows 11 - Familiar with performing
 <h2>Attributes Added for Users</h2>
 <p>
 <img width="1063" height="625" alt="image"
