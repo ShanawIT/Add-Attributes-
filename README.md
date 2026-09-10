@@ -14,4 +14,4 @@ environment.
 
 </p>
 <p>
-Attributes added for Amy Adams (one out of several users, can show more if requested).
+Attributes added for James Smith (one out of several users, can show more if requested).
